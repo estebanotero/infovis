@@ -6,4 +6,4 @@ Ejercicios de la Semana 1
 
 *Visualizaciones con Rawgraph [Rawgraph](https://estebanotero.github.io/infovis/s1/rawgraph.html)
 
-*Visualizaciones con Observable [Observablehq](https://estebanotero.github.io/infovis/s1/observablehq.html)
+*Visualizaciones con Observable [Observable](https://estebanotero.github.io/infovis/s1/observable.html)
