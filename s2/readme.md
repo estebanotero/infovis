@@ -4,3 +4,4 @@ Ejercicios de la semana 2
 
 *Visualizaciones en [Observable](https://observablehq.com/d/8bcd0689e1b6afc4)
 
+*Histogramas  [Observable](https://observablehq.com/d/4ef58db09c7f7952)
